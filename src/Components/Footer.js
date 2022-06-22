@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="container mx-auto">
           <div className="grid grid-col-2 md:grid-cols-5 gap-2 md:gap-6 text-center md:text-left">
             <div className="col-span-2">
-              <a href="" className="text-5xl line-through font-bold">
+              <a href="#" className="text-5xl line-through font-bold">
                 ED
               </a>
               <p className="mt-3 pr-5">
