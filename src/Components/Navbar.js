@@ -7,7 +7,7 @@ export default function Navbar() {
   return (
     <nav className="bg-tertiary px-2 sm:px-2 py-2.5">
       <div className="container flex flex-wrap justify-between items-center mx-auto">
-        <a href="" className="text-3xl font-bold line-through text-primary">
+        <a href="#x" className="text-3xl font-bold line-through text-primary">
           ED
         </a>
         <div className="flex md:order-2 md:hidden">
@@ -23,7 +23,7 @@ export default function Navbar() {
           <ul className="flex flex-col mt-4 md:flex-row md:space-x-8 md:mt-0  text-xl text-primary">
             <li className="py-2 md:py-0">
               <a
-                href=""
+                href="#x"
                 className="py-4 pr-6 pl-0 hover:opacity-80 transition-all"
               >
                 explore
@@ -31,7 +31,7 @@ export default function Navbar() {
             </li>
             <li className="py-2 md:py-0">
               <a
-                href=""
+                href="#x"
                 className="py-4 pr-6 pl-0 hover:opacity-80 transition-all"
               >
                 resources
@@ -39,7 +39,7 @@ export default function Navbar() {
             </li>
             <li className="py-2 md:py-0">
               <a
-                href=""
+                href="#x"
                 className="py-4 pr-6 pl-0 hover:opacity-80 transition-all"
               >
                 creators
@@ -47,7 +47,7 @@ export default function Navbar() {
             </li>
             <li className="py-2 md:py-0">
               <a
-                href=""
+                href="#x"
                 className="py-4 pr-6 pl-0 hover:opacity-80 transition-all"
               >
                 <Button text="Connect Wallet" />
