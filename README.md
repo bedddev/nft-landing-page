@@ -4,7 +4,7 @@
 
 [Watch it on youtube](https://youtu.be/Oe7MWQ0-kfA)
 
-Hi friends, today i hope we get a great dayv and this repo is a build 3D NFT Landing Page Collections with React JS and Tailwind CSS
+Hi friends, today i hope we get a great day and this repo is a build 3D NFT Landing Page Collections with React JS and Tailwind CSS
 
 [Figma File](https://www.figma.com/community/file/1121655354645544040)
 
